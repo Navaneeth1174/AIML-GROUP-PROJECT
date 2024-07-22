@@ -1,4 +1,4 @@
-# VIDEO GAME SALES PREDICTION USING LOGISTIC REGRESSION 
+# VIDEO GAME SALES PREDICTION USING LINEAR REGRESSION MODEL
 #VIDEO GAME SALES & POPULARITY PREDICTION
 
 The video game market has only continued to grow over the years and is now spanning all genres. It has continued to grow and expand into a lot of different walks of life, from movies and TV-shows to even books/fan-fiction. With this growing market the various gaming publishers will want to capitalize on the interests of the various gamers within it and picking the right kind of game to develop and put out into the market could make or break a gaming publisher/studio.
